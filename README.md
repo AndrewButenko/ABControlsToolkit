@@ -5,4 +5,4 @@ At the moment Toolkit has following controls:
 * Address Autocomplete Control (field-type control)
 * Form Map Control (field-type control)
 * Grid Map Control (dataset-type control)
-* [Text Autocomplete Control (field-type control)](/AndrewButenko/ABControlsToolkit/wiki/Text-Autocomplete-Control)
+* [Text Autocomplete Control (field-type control)](https://github.com//AndrewButenko/ABControlsToolkit/wiki/Text-Autocomplete-Control)
