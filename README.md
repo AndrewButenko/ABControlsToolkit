@@ -5,3 +5,4 @@ At the moment Toolkit has following controls:
 * Address Autocomplete Control (field-type control)
 * Form Map Control (field-type control)
 * Grid Map Control (dataset-type control)
+* Generic Text Autocomplete Control (field-type control)
